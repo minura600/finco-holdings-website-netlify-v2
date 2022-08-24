@@ -2,6 +2,8 @@
 
 1. base.njk is the base template. _includes creates pages out of this base template.
 
+# Navbar
+1. .site-navigation.nav-bg to change navbar padding
 ## Table of Contents
 
 -  [Live Demo](#)
