@@ -1,5 +1,6 @@
 # Test deployment URL
-https://finco-holdings.netlify.app/
+https://finco-trading.netlify.app/
+
 # Notes
 
 1. base.njk is the base template. _includes creates pages out of this base template.
