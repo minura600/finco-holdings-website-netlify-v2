@@ -1,9 +1,12 @@
+# Test deployment URL
+https://finco-holdings.netlify.app/
 # Notes
 
 1. base.njk is the base template. _includes creates pages out of this base template.
 
 # Navbar
 1. .site-navigation.nav-bg to change navbar padding
+2. .site-navigation .nav-item .nav-link:hover to change hover color
 ## Table of Contents
 
 -  [Live Demo](#)
