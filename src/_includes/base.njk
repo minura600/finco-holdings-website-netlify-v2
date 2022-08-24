@@ -56,6 +56,8 @@
             <li class="nav-item">
               {% if navLink == "home" %}
                 <a class="nav-link" href="/">{{navLink | capitalize}}</a>
+              {% elif navLink == "contact us" %}
+                <a class="nav-link" href="/#contact">{{navLink | capitalize}}</a>
               {% else %}
                 <a class="nav-link" href="/{{navLink}}">{{navLink | capitalize}}</a> 
               {% endif %} 
