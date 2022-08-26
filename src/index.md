@@ -1,10 +1,11 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: ""
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Belies In the Great Ideas"
+    firstPara: ""
+    secondPara: ""
+    color: ""
   seeWorkBtn:
     text: "See Our Works"
     link: "#project"
