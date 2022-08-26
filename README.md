@@ -1,3 +1,6 @@
+# Local build commands
+To run: ```npx eleventy --serve```<br>
+To build: ```npx eleventy```
 # Test deployment URL
 https://finco-trading.netlify.app/
 
