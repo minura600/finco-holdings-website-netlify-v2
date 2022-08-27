@@ -21,8 +21,8 @@ about:
 
 
 portfolio:
-  title: "OUR RECENT WORKS"
-  subtitle: "Crafting experiences and seeking to make the complex clear & beautiful."
+  subtitle: "Leo integer malesuada nunc vel risus commodo viverra maecenas"
+  title: "Our Brands"
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"

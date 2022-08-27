@@ -39,34 +39,36 @@
     </section>
 
     <!--Brands Section--->
-    <section class="site-project" id="project">
+    <section class="site-project" id="brands">
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <div class="section-title">
-              <h2>{{portfolio.subTitle}}</h2>
-              <p>{{portfolio.title}}</p>
+            <div class="section-title brands-heading" id="#brands-heading">
+              <h1>{{portfolio.title}}</h1>
+              <p>{{portfolio.subtitle}}</p>
             </div>
-          </div>
-          {% for portfolio in collections.portfolios %}
-          <div class="col-lg-6 col-md-10 mx-auto">
-            <div class="site-project-item">
-              <div class="site-project-item-thumb">
-                <img src="{{portfolio.data.img}}" alt="project-thumb">
-              </div>
-              <div class="site-project-item-content">
-                <span>{{portfolio.data.subTitle}}</span>
-                <h3>{{portfolio.data.title}}</h3>
-                <a href="{{portfolio.data.page.url}}" class="read-more">{{portfolio.data.linkText}}</a>
-              </div>
-            </div>
-          </div>
-          {% endfor %}
-          <div class="col-12 text-center text-lg-left">
-            <a href="/{{portfolio.seeAllbtn.link}}" class="site-project-cta">{{portfolio.seeAllbtn.text}}</a>
           </div>
         </div>
-      </div>
+        {% for portfolio in collections.portfolios %}
+        <!-- Heading --->
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title brand-title" id="#brand-title"><h2>{{portfolio.data.title}}</h2></div>
+          </div>
+        </div>
+        <!-- Image --->
+        <div class="row">
+          <div class="col-12">
+            <img src="{{portfolio.data.img}}" alt="project-thumb" class="img-fluid" style="max-width: {{portfolio.data.image_width}}; padding-bottom: 30px;">
+          </div>
+        </div>
+        <!-- Descriptions --->
+        <div class="row">
+          <div class="col-12">
+            <p style="padding-bottom:{{portfolio.data.paragraph_padding}}">{{portfolio.data.text}}</p>
+          </div>          
+        </div>
+        {% endfor %}
     </section>
 
     <section class="site-testimonial">
