@@ -136,6 +136,21 @@ body {
 }
 
 @media (max-width: 991px) {
+  .image-width {
+    max-width: 100% !important; 
+  }
+}
+
+@media (max-width: 991px) {
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+}
+
+@media (max-width: 991px) {
   .section-title {
     text-align: center;
   }
