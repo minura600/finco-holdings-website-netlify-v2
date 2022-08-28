@@ -1,5 +1,7 @@
 {
-  "footerLogo": "/assets/images/logo-footer.png",
+  "footerLogo": "/assets/images/logo-footer2.png",
+  "footerLogoWidth": "120px",
+
 
   "contactsHeading": "Contact Info",
   "contactsInfo":[
@@ -8,36 +10,28 @@
       "text":"713 Elmwood St. Prior Lake, MN 55372"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
+      "link":"tel:0777555555",
+      "text":"0777555555"
     },
     {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
-    },
-    {
-      "link":"mailto:",
-      "text":"info@roxo.co"
+      "link":"mailto:info@info.com",
+      "text":"info@info.com"
     }
   ],
 
   "siteMapHeading":"Sitemap",
   "siteMap":[
     {
-      "link":"about",
-      "text":"About Comapny"
+      "link":"#",
+      "text":"Home"
     },
     {
-      "link":"portfolio",
-      "text":"Projects"
+      "link":"#about",
+      "text":"About Us"
     },
     {
-      "link":"privacy-policy",
-      "text":"Privacy Policy"
-    },
-    {
-      "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "link":"#brands",
+      "text":"Brands"
     }
   ],
 
@@ -61,9 +55,6 @@
     }
   ],
   
-  "brandHeading":"We help brands:",
-  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
-
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"Back to Top"
 }
