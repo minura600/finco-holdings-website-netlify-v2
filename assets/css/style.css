@@ -11,6 +11,23 @@ body {
   color: #9D9EA5;
 }
 
+/* Begin custom CSS */
+
+h2 a, h2 a:active, h2 a:visited, h2 a:hover {
+  text-decoration:none;
+  color:#000000;
+}
+
+.section-title h2, #brand-title {
+  font-weight: 300;
+  font-size: 40px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+/* End custom CSS */
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -162,13 +179,7 @@ body {
   margin-bottom: 15px;
 }
 
-.section-title h2, #brand-title {
-  font-weight: 300;
-  font-size: 40px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  margin-bottom: 15px;
-}
+
 
 @media (max-width: 991px) {
   .section-title h2 {
@@ -578,11 +589,11 @@ textarea.form-control {
   color: #fff;
 }
 .site-project-single-section {
-  padding: 250px 0 100px;
+  padding: 180px 0 100px;
 }
 @media (max-width: 767px) {
   .site-project-single-section {
-    padding: 100px 0;
+    padding: 140px 0 50px;
   }
 }
 .site-project-single h1 {
@@ -630,6 +641,7 @@ textarea.form-control {
   display: inline-block;
   overflow: hidden;
 }
+
 .site-project-single-action a .link-area span {
   position: relative;
   display: block;

@@ -11,7 +11,7 @@
                 {{title}}
               </h1>
               <div class="site-project-single-description">
-                {{content | safe}}
+                {{text}}
               </div>
               <div class="site-project-single-image">
                 <img src="{{featureImg1}}" alt="project image">
@@ -26,8 +26,8 @@
                 <a href="{{previousPost.url}}">
                   <img class="rev" src="/assets/images/to-top.svg" alt="next project">
                   <span class="link-area">
-                    <span data-text="{{previousPost.data.title}}">
-                      Previous Project
+                    <span data-text="{{previousPost.data.pagination_title}}">
+                      Previous Brand
                     </span>
                   </span>
                 </a>
@@ -35,8 +35,8 @@
                 {% if nextPost %}
                 <a href="{{nextPost.url}}">
                   <span class="link-area">
-                    <span data-text="{{nextPost.data.title}}">
-                      Next Project
+                    <span data-text="{{nextPost.data.pagination_title}}">
+                      Next Brand
                     </span>
                   </span>
                   <img src="/assets/images/to-top.svg" alt="next project">

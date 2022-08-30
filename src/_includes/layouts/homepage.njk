@@ -55,13 +55,15 @@
         <!-- Heading --->
         <div class="row">
           <div class="col-12">
-            <div class="section-title brand-title" id="#brand-title"><h2>{{portfolio.data.title}}</h2></div>
+            <div class="section-title brand-title" id="#brand-title"><h2><a href="{{portfolio.data.page.url}}">{{portfolio.data.title}}</a></h2></div>
           </div>
         </div>
         <!-- Image --->
         <div class="row">
           <div class="col-12">
-            <img src="{{portfolio.data.img}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{portfolio.data.image_width}}; padding-bottom: 30px;">
+            <a href="{{portfolio.data.page.url}}">
+              <img src="{{portfolio.data.img}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{portfolio.data.image_width}}; padding-bottom: 30px;">
+            </a>
           </div>
         </div>
         <!-- Descriptions --->

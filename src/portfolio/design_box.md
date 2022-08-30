@@ -1,12 +1,13 @@
 ---
 subTitle: "PRODUCT LABEL" 
 title: "Design Box"
+pagination_title: "Design Box"
 img: "/assets/images/brands/design_box.png"
 image_width: 20%
 paragraph_padding: 0px
 linkText: "view project"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/brands/design_box.png"
+featureImg2: "/assets/images/brands/design_box.png"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque in dictum non consectetur a erat nam at lectus. Senectus et netus et malesuada fames ac turpis egestas maecenas. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Habitant morbi tristique senectus et netus et malesuada fames ac. Augue neque gravida in fermentum et. Elit sed vulputate mi sit. Netus et malesuada fames ac. Ullamcorper malesuada proin libero nunc."
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
