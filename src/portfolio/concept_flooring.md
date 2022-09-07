@@ -29,6 +29,8 @@ text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t
 
 standard_carpets:
   title: Standard Carpets
+  img: "/assets/images/brands/standard_carpets.png"
+  img_width: 35%
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 
