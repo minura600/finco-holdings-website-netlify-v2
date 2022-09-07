@@ -13,14 +13,19 @@
                 <br><br>
                 <a href="{{page_link}}" class="read-more">Go To Website</a>
               </div>
-                <div class="site-footer-widget">
-                  <ul class="site-footer-widget-links">
 
-                    {% for site in social %}
+              {% if title == "Concept Flooring" %}
+              <!-- Design box Section --->
+                {{text}}
+              {% endif %}
+
+              <!-- Social Media Icons --->
+              <div class="site-footer-widget">
+                <ul class="site-footer-widget-links">
+                  {% for site in social %}
                     <li><a href="{{site.link}}" style="color: #00113E"><img src="{{site.icon}}"> {{site.text}}</a></li>
-                    {% endfor %}
-                    
-                  </ul>
+                  {% endfor %}
+                </ul>
               </div>
               
               <div class="site-project-single-image">
