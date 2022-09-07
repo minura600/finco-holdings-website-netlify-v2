@@ -1,6 +1,7 @@
 ---
 subTitle: "PRODUCT LABEL" 
 title: "Hacker"
+displayOrder: 1
 pagination_title: "Hacker"
 img: "/assets/images/brands/hacker2.png"
 image_width: 25%

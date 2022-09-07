@@ -1,6 +1,7 @@
 ---
 subTitle: "PRODUCT LABEL" 
 title: "Design Box"
+displayOrder: 3
 pagination_title: "Design Box"
 img: "/assets/images/brands/design_box.png"
 image_width: 20%
