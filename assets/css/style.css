@@ -26,6 +26,10 @@ h2 a, h2 a:active, h2 a:visited, h2 a:hover {
   margin-bottom: 15px;
 }
 
+.site-project-single-description {
+  margin-bottom: 20px;
+}
+
 /* End custom CSS */
 
 h1, h2, h3, h4, h5, h6 {
@@ -617,11 +621,9 @@ textarea.form-control {
     width: 100%;
   }
 }
-.site-project-single-description {
-  margin-bottom: 50px;
-}
+
 .site-project-single-description p {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .site-project-single-action a {
   position: relative;

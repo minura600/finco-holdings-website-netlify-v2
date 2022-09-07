@@ -4,9 +4,25 @@ title: "Hacker"
 displayOrder: 1
 pagination_title: "Hacker"
 img: "/assets/images/brands/hacker2.png"
+img_brand_page: "/assets/images/brands/hacker2.png"
 image_width: 25%
+image_width_brand_page: 100%
 paragraph_padding: 15px
 linkText: "view project"
+page_link: https://www.google.com
+social:
+  - link: https://www.website.com
+    icon: /assets/images/social_icons/globe.svg
+    text: www.website.com
+  - link: https://www.facebook.com/finco
+    icon: /assets/images/social_icons/facebook.svg
+    text: www.facebook.com/finco
+  - link: https://www.instagram.com/finco
+    icon: /assets/images/social_icons/instagram.svg
+    text: www.instagram.com/finco
+  - link: https://www.twitter.com/finco
+    icon: /assets/images/social_icons/twitter.svg
+    text: www.instagram.com/finco
 featureImg1: "/assets/images/brands/hacker.png"
 featureImg2: "/assets/images/brands/hacker.png"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque in dictum non consectetur a erat nam at lectus. Senectus et netus et malesuada fames ac turpis egestas maecenas. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Habitant morbi tristique senectus et netus et malesuada fames ac. Augue neque gravida in fermentum et. Elit sed vulputate mi sit. Netus et malesuada fames ac. Ullamcorper malesuada proin libero nunc."
