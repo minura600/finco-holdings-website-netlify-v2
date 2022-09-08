@@ -25,12 +25,13 @@ social:
     text: www.instagram.com/finco
 featureImg1: "/assets/images/brands/standard_carpets.png"
 featureImg2: "/assets/images/brands/standard_carpets.png"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque in dictum non consectetur a erat nam at lectus. Senectus et netus et malesuada fames ac turpis egestas maecenas. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Habitant morbi tristique senectus et netus et malesuada fames ac. Augue neque gravida in fermentum et. Elit sed vulputate mi sit. Netus et malesuada fames ac. Ullamcorper malesuada proin libero nunc."
+text: "A sub brand of Finco Trading (Pvt) ltd offering a wide variety of broadloom & carpet tiles to vinyl flooring. Concept flooring is the exclusive partner for Standard Carpets – Dubai’s largest Carpet tile Manufacturer."
 
 standard_carpets:
   title: Standard Carpets
   img: "/assets/images/brands/standard_carpets.png"
-  img_width: 35%
+  img_width: 30%
+  text: "Hosts one of the world’s largest carpet manufacturing facilities and is the region’s largest producer of vinyl- backed carpet tiles."
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 

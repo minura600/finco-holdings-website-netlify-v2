@@ -9,11 +9,11 @@ image_width: 25%
 image_width_brand_page: 100%
 paragraph_padding: 15px
 linkText: "view project"
-page_link: https://www.google.com
+page_link: https://haeckersrilanka.com/?page_id=439
 social:
-  - link: https://www.website.com
+  - link: https://haeckersrilanka.com/?page_id=439
     icon: /assets/images/social_icons/globe.svg
-    text: www.website.com
+    text: www.haeckersrilanka.com
   - link: https://www.facebook.com/finco
     icon: /assets/images/social_icons/facebook.svg
     text: www.facebook.com/finco
@@ -25,7 +25,7 @@ social:
     text: www.instagram.com/finco
 featureImg1: "/assets/images/brands/hacker.png"
 featureImg2: "/assets/images/brands/hacker.png"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque in dictum non consectetur a erat nam at lectus. Senectus et netus et malesuada fames ac turpis egestas maecenas. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Habitant morbi tristique senectus et netus et malesuada fames ac. Augue neque gravida in fermentum et. Elit sed vulputate mi sit. Netus et malesuada fames ac. Ullamcorper malesuada proin libero nunc."
+text: "Accelerating its continuous growth and expanding its horizons, Häcker kitchen unearthed a dazzling collection of kitchens that follow the product lines of Classic and Systemat, which is presented by the lead of Finco Trading, a subsidiary of FINCO Holdings, is the exclusive partner in Sri Lanka for Häcker kitchen GmbH & Co KG, since 2019."
 ---
 The “Osen Clock” watch has all the features that users expect in a digital watch, and some unusual features.
 
