@@ -6,16 +6,16 @@
   "contactsHeading": "Contact Info",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "link":"https://goo.gl/maps/VK4bFqqyvanBZj2X9",
+      "text":"No.55, Iceland Building, Galle Road, Colombo 03."
     },
     {
-      "link":"tel:0777555555",
-      "text":"0777555555"
+      "link":"tel:+94727866579",
+      "text":"+94727866579"
     },
     {
-      "link":"mailto:info@info.com",
-      "text":"info@info.com"
+      "link":"mailto:info@finco-trading.com",
+      "text":"info@finco-trading.com"
     }
   ],
 
@@ -35,23 +35,19 @@
     }
   ],
 
-  "socialHeading":"Social Media",
+  "socialHeading":"Brands",
   "socialMedia":[
     {
-      "link":"#",
-      "text":"Medium"
+      "link":"portfolio/hacker/",
+      "text":"Hacker"
     },
     {
-      "link":"#",
-      "text":"Behance"
+      "link":"portfolio/concept_flooring/",
+      "text":"Concept Flooring"
     },
     {
-      "link":"#",
-      "text":"Dribbble"
-    },
-    {
-      "link":"#",
-      "text":"Instagram"
+      "link":"portfolio/design_box/",
+      "text":"Design Box"
     }
   ],
   
