@@ -15,8 +15,8 @@ hero:
 
 about:
   title: About Us
-  para1:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque in dictum non consectetur a erat nam at lectus. Senectus et netus et malesuada fames ac turpis egestas maecenas. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Luctus accumsan tortor posuere ac ut consequat semper viverra nam. Habitant morbi tristique senectus et netus et malesuada fames ac. Augue neque gravida in fermentum et. Elit sed vulputate mi sit. Netus et malesuada fames ac. Ullamcorper malesuada proin libero nunc."
-  para2: "Leo integer malesuada nunc vel risus commodo viverra maecenas. Malesuada fames ac turpis egestas maecenas pharetra convallis posuere morbi. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et."
+  para1: "FINCO Trading, a subsidiary company of FINCO Holdings is the exclusive partner to distribute Häcker Kitchen, Bosch, De-dietrich & Standard Carpets in Sri Lanka."
+  para2: "The Finco Group is one of Sri Lanka’s leading private sector organisations with great brand reputation and sound financial standing. Comprising of 13 Private Limited Companies across various sectors, we function under the corporate vision, “Committed to Excellence”. Our history is symbolized by half a century’s worth of environmentally and socially cognizant development and diversification in the region."
   para_color: #00113E
 
 
