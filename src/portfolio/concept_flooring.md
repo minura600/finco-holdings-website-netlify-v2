@@ -7,7 +7,7 @@ img: "/assets/images/brands/concept_flooring_white_cropped.jpg"
 img_brand_page: "/assets/images/brands/concept_flooring_white_cropped.jpg"
 image_width: 25%
 image_width_brand_page: 50%
-paragraph_padding: 15px
+paragraph_padding: 35px
 linkText: "view project"
 page_link: https://www.google.com
 social:

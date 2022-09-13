@@ -7,7 +7,7 @@ img: "/assets/images/brands/hacker2.png"
 img_brand_page: "/assets/images/brands/hacker2.png"
 image_width: 25%
 image_width_brand_page: 100%
-paragraph_padding: 15px
+paragraph_padding: 20px
 linkText: "view project"
 page_link: https://haeckersrilanka.com/?page_id=439
 social:
