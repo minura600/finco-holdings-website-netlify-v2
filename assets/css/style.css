@@ -30,6 +30,73 @@ h2 a, h2 a:active, h2 a:visited, h2 a:hover {
   margin-bottom: 20px;
 }
 
+.carousel-text {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.60);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 3.5vw;
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+/*.carousel-caption-position {
+  bottom: 20px;
+  position: absolute;
+  }
+*/
+
+#supposed-child{
+    position: absolute;
+}
+/*
+
+@media (min-width: 1550px) {
+  .carousel-caption-position {
+    bottom: 150px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .carousel-caption-position {
+    bottom: 180px;
+  }
+}
+
+@media (min-width: 1650px) {
+  .carousel-caption-position {
+    bottom: 220px;
+  }
+}
+
+@media (min-width: 1700px) {
+  .carousel-caption-position {
+    bottom: 270px;
+  }
+}
+
+@media (min-width: 1750px) {
+  .carousel-caption-position {
+    bottom: 320px;
+  }
+}
+
+@media (min-width: 1800px) {
+  .carousel-caption-position {
+    bottom: 370px;
+  }
+}
+
+@media (min-width: 1850px) {
+  .carousel-caption-position {
+    bottom: 430px;
+  }
+}
+*/
+
 /* End custom CSS */
 
 h1, h2, h3, h4, h5, h6 {
