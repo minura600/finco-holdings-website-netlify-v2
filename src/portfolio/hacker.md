@@ -13,16 +13,13 @@ page_link: https://haeckersrilanka.com/?page_id=439
 social:
   - link: https://haeckersrilanka.com/?page_id=439
     icon: /assets/images/social_icons/globe.svg
-    text: www.haeckersrilanka.com
-  - link: https://www.facebook.com/finco
+    text: haeckersrilanka.com
+  - link: https://www.facebook.com/hackerkitchensrilanka
     icon: /assets/images/social_icons/facebook.svg
-    text: www.facebook.com/finco
-  - link: https://www.instagram.com/finco
+    text: facebook.com/hackerkitchensrilanka
+  - link: https://instagram.com/hacker_kitchen_srilanka
     icon: /assets/images/social_icons/instagram.svg
-    text: www.instagram.com/finco
-  - link: https://www.twitter.com/finco
-    icon: /assets/images/social_icons/twitter.svg
-    text: www.instagram.com/finco
+    text: instagram.com/hacker_kitchen_srilanka
 featureImg1: "/assets/images/brands/hacker.png"
 featureImg2: "/assets/images/brands/hacker.png"
 text: "Accelerating its continuous growth and expanding its horizons, Häcker kitchen unearthed a dazzling collection of kitchens that follow the product lines of Classic and Systemat, which is presented by the lead of Finco Trading, a subsidiary of FINCO Holdings, is the exclusive partner in Sri Lanka for Häcker kitchen GmbH & Co KG, since 2019."

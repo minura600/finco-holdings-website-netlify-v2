@@ -17,9 +17,9 @@ social:
   - link: https://www.facebook.com/finco
     icon: /assets/images/social_icons/facebook.svg
     text: www.facebook.com/finco
-  - link: https://www.instagram.com/finco
+  - link: https://instagram.com/concept_flooring_sl
     icon: /assets/images/social_icons/instagram.svg
-    text: www.instagram.com/finco
+    text: instagram.com/concept_flooring_sl
   - link: https://www.twitter.com/finco
     icon: /assets/images/social_icons/twitter.svg
     text: www.instagram.com/finco
