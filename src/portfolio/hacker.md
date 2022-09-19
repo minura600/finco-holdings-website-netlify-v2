@@ -11,9 +11,6 @@ paragraph_padding: 20px
 linkText: "view project"
 page_link: https://haeckersrilanka.com/?page_id=439
 social:
-  - link: https://haeckersrilanka.com/?page_id=439
-    icon: /assets/images/social_icons/globe.svg
-    text: haeckersrilanka.com
   - link: https://www.facebook.com/hackerkitchensrilanka
     icon: /assets/images/social_icons/facebook.svg
     text: facebook.com/hackerkitchensrilanka

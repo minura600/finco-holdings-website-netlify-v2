@@ -11,9 +11,6 @@ paragraph_padding: 35px
 linkText: "view project"
 page_link: https://www.google.com
 social:
-  - link: https://www.website.com
-    icon: /assets/images/social_icons/globe.svg
-    text: www.website.com
   - link: https://www.facebook.com/finco
     icon: /assets/images/social_icons/facebook.svg
     text: www.facebook.com/finco

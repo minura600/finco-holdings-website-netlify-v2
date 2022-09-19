@@ -46,6 +46,10 @@ h2 a, h2 a:active, h2 a:visited, h2 a:hover {
     position: absolute;
 }
 
+.social-icon-color{
+  filter: invert(6%) sepia(56%) saturate(3671%) hue-rotate(214deg) brightness(101%) contrast(106%);
+}
+
 /* End custom CSS */
 
 h1, h2, h3, h4, h5, h6 {

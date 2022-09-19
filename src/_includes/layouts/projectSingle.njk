@@ -24,13 +24,13 @@
               {% endif %}
 
               <!-- Social Media Icons --->
-              <div class="site-footer-widget" style="margin-bottom: 30px;">
-                <ul class="site-footer-widget-links">
+                <div class="row" style="margin-bottom: 30px;">
+                  <div class="col">
                   {% for site in social %}
-                    <li><a href="{{site.link}}" style="color: #00113E"><img src="{{site.icon}}" width="25"> {{site.text}}</a></li>
+                    <a href="{{site.link}}" style="padding-right: 5px"><img src="{{site.icon}}" width="35" class="social-icon-color"></a>
                   {% endfor %}
-                </ul>
-              </div>
+                  </div>
+                </div>
 
               <!-- Image Section
               <div class="site-project-single-image">
