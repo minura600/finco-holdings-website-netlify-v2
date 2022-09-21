@@ -11,15 +11,12 @@ paragraph_padding: 35px
 linkText: "view project"
 page_link: https://www.google.com
 social:
-  - link: https://www.facebook.com/finco
+  - link: https://www.facebook.com/Concept-Flooring-Sri-Lanka-108829928635810
     icon: /assets/images/social_icons/facebook.svg
     text: www.facebook.com/finco
   - link: https://instagram.com/concept_flooring_sl
     icon: /assets/images/social_icons/instagram.svg
     text: instagram.com/concept_flooring_sl
-  - link: https://www.twitter.com/finco
-    icon: /assets/images/social_icons/twitter.svg
-    text: www.instagram.com/finco
 featureImg1: "/assets/images/brands/standard_carpets.png"
 featureImg2: "/assets/images/brands/standard_carpets.png"
 text: "A sub brand of Finco Trading (Pvt) Ltd offering a wide variety of broadloom & carpet tiles to vinyl flooring. Concept flooring is the exclusive partner for Standard Carpets – Dubai’s largest Carpet Tile Manufacturer."
