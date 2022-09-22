@@ -3,10 +3,10 @@ subTitle: "PRODUCT LABEL"
 title: "Hacker"
 displayOrder: 1
 pagination_title: "Hacker"
-img: "/assets/images/brands/hacker2.png"
-img_brand_page: "/assets/images/brands/hacker2.png"
+img: "/assets/images/brands/hacker.jpg"
+img_brand_page: "/assets/images/brands/hacker.jpg"
 image_width: 25%
-image_width_brand_page: 100%
+image_width_brand_page: 50%
 paragraph_padding: 20px
 linkText: "view project"
 page_link: https://haeckersrilanka.com/?page_id=439
