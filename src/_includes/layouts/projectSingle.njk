@@ -7,22 +7,12 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <div class="site-project-single">
-              <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 20px;">
-              <div class="site-project-single-description">
-                {{content | safe}}
-                <a href="{{page_link}}" class="read-more">Go To Website</a>
-              </div>
-
               {% if title == "Concept Flooring" %}
-              <!-- Design box Section --->
-                <div class="section-title brand-title" style="margin-bottom: 25px;"><h2>Sub-Brands</h2></div>
-                <img src="{{standard_carpets.img}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{standard_carpets.img_width}}; padding-bottom: 20px;">
+                <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 20px;">
                 <div class="site-project-single-description">
-                  {{standard_carpets.text}}
+                  {{content | safe}}
                 </div>
-              {% endif %}
-
-              <!-- Social Media Icons --->
+                <!-- Social Media Icons --->
                 <div class="row" style="margin-bottom: 30px;">
                   <div class="col">
                   {% for site in social %}
@@ -30,6 +20,31 @@
                   {% endfor %}
                   </div>
                 </div>
+                <!-- Design box Section --->
+                <div class="section-title brand-title" style="margin-bottom: 25px;"><h2>Sub-Brands</h2></div>
+                <img src="{{standard_carpets.img}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{standard_carpets.img_width}}; padding-bottom: 20px;">
+                <div class="site-project-single-description">
+                  <p>{{standard_carpets.text}}</p>
+                  <a href="{{page_link}}" class="read-more">Go To Website</a>
+                </div>
+
+              {% else %}
+                <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 20px;">
+                  <div class="site-project-single-description">
+                    {{content | safe}}
+                    <a href="{{page_link}}" class="read-more">Go To Website</a>
+                  </div>
+
+                <!-- Social Media Icons --->
+                  <div class="row" style="margin-bottom: 30px;">
+                    <div class="col">
+                    {% for site in social %}
+                      <a href="{{site.link}}" style="padding-right: 5px"><img src="{{site.icon}}" width="35" class="social-icon-color"></a>
+                    {% endfor %}
+                    </div>
+                  </div>
+
+              {% endif %}
 
               <!-- Image Section
               <div class="site-project-single-image">
