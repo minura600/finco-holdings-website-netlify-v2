@@ -44,12 +44,7 @@
         <!-- Descriptions --->
         <div class="row">
           <div class="col-12">
-            {% if not portfolio.data.text2%}
             <p style="padding-bottom:{{portfolio.data.paragraph_padding}}">{{portfolio.data.text}}</p>
-            {% else%}
-            <p>{{portfolio.data.text}}</p>
-            <p style="padding-bottom:{{portfolio.data.paragraph_padding}}">{{portfolio.data.text2}}</p>
-            {% endif %}
           </div>          
         </div>
         {% endfor %}

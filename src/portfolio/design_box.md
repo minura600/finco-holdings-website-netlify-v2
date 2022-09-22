@@ -22,9 +22,6 @@ social:
     text: www.instagram.com/finco
 featureImg1: "/assets/images/brands/design_box.png"
 featureImg2: "/assets/images/brands/design_box.png"
-text: "Providing exceptional design at standard pricing, DesignBox offers full service interior solutions specifically for apartment living. Across styles and with customizable options, the turn key interior solution and furniture package is delivered from design to installation, efficiently and in a short lead time."
-text2: "Developed together with Award winning Interior Designer Yasmine Svensson and Alpha, DesignBox is synonymous with the ultimate in affordable luxury."
+text: "Providing exceptional design at standard pricing, DesignBox offers full service interior solutions specifically for apartment living. Across styles and with customizable options, the turn key interior solution and furniture package is delivered from design to installation, efficiently and in a short lead time. Developed together with Award winning Interior Designer Yasmine Svensson and Alpha, DesignBox is synonymous with the ultimate in affordable luxury."
 ---
-Providing exceptional design at standard pricing, DesignBox offers full service interior solutions specifically for apartment living. Across styles and with customizable options, the turn key interior solution and furniture package is delivered from design to installation, efficiently and in a short lead time.
-
-Developed together with Award winning Interior Designer Yasmine Svensson and Alpha, DesignBox is synonymous with the ultimate in affordable luxury.
+Providing exceptional design at standard pricing, DesignBox offers full service interior solutions specifically for apartment living. Across styles and with customizable options, the turn key interior solution and furniture package is delivered from design to installation, efficiently and in a short lead time. Developed together with Award winning Interior Designer Yasmine Svensson and Alpha, DesignBox is synonymous with the ultimate in affordable luxury.
