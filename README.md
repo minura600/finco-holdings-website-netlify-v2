@@ -13,6 +13,9 @@ https://finco-trading.netlify.app/
 # Using critical CSS
 use command ```node miscellaneous_scripts/critical_css.mjs``` to generate critical and uncritical CSS. use only critical section. then load other stylesheets.
 
+# Improve lighthouse performance
+Improve lighthouse performance by removing carousel-img in carousel partial line 12
+
 # Navbar
 1. .site-navigation.nav-bg to change navbar padding
 2. .site-navigation .nav-item .nav-link:hover to change hover color
