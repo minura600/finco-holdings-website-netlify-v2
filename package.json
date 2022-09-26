@@ -21,5 +21,8 @@
    "homepage": "https://github.com/Tanvir9290/Roxo_eleventy#readme",
    "dependencies": {
       "@11ty/eleventy": "^0.12.1"
+   },
+   "devDependencies": {
+      "critical": "^5.0.2"
    }
 }

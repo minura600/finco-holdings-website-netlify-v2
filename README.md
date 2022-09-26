@@ -10,6 +10,9 @@ https://finco-trading.netlify.app/
 2. How collections works - https://www.11ty.dev/docs/collections/
 3. whataspp button tutorial - https://codepen.io/demoonkevin/pen/MvPEpV
 
+# Using critical CSS
+use command ```node miscellaneous_scripts/critical_css.mjs``` to generate critical and uncritical CSS. use only critical section. then load other stylesheets.
+
 # Navbar
 1. .site-navigation.nav-bg to change navbar padding
 2. .site-navigation .nav-item .nav-link:hover to change hover color
