@@ -20,9 +20,8 @@ generate({
   
     // Output results to file
     target: {
-      css: 'critical.css',
-      html: 'index-critical.html',
-      uncritical: 'uncritical.css',
+      css: '../miscellaneous_scripts/critical.css',
+      uncritical: '../miscellaneous_scripts/uncritical.css',
     },
   
     // Extract inlined styles from referenced stylesheets
