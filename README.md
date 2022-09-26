@@ -8,6 +8,7 @@ https://finco-trading.netlify.app/
 
 1. base.njk is the base template. _includes creates pages out of this base template.
 2. How collections works - https://www.11ty.dev/docs/collections/
+3. whataspp button tutorial - https://codepen.io/demoonkevin/pen/MvPEpV
 
 # Navbar
 1. .site-navigation.nav-bg to change navbar padding
