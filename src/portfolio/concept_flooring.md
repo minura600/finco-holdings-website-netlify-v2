@@ -9,7 +9,7 @@ image_width: 25%
 image_width_brand_page: 50%
 paragraph_padding: 35px
 linkText: "view project"
-page_link: https://www.google.com
+page_link: https://www.standardcarpets.com
 social:
   - link: https://www.facebook.com/Concept-Flooring-Sri-Lanka-108829928635810
     icon: /assets/images/social_icons/facebook.svg
