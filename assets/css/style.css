@@ -50,6 +50,13 @@ h2 a, h2 a:active, h2 a:visited, h2 a:hover {
   filter: invert(6%) sepia(56%) saturate(3671%) hue-rotate(214deg) brightness(101%) contrast(106%);
 }
 
+@media (max-width: 991px) {
+  .no-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
 /* End custom CSS */
 
 h1, h2, h3, h4, h5, h6 {

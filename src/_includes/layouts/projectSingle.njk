@@ -28,6 +28,23 @@
                   <a href="{{page_link}}" class="read-more">Go To Website</a>
                 </div>
 
+              {% elseif title == "Hacker" %}
+                <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 5px;">
+                <div class="row align-items-center" style="padding-bottom: 15px;">
+                  <div class="col no-padding">
+                    <img src="{{sub_brand1}}" class="img-fluid image-width center" style="max-width: {{image_width_subbrand}};">
+                  </div>
+                  <div class="col no-padding">
+                    <img src="{{sub_brand2}}" class="img-fluid image-width center" style="max-width: {{image_width_subbrand}};">
+                  </div>
+                  <div class="col no-padding">
+                    <img src="{{sub_brand3}}" class="img-fluid image-width center" style="max-width: {{image_width_subbrand}};">
+                  </div></div>
+                <div>
+                <div class="site-project-single-description">
+                  {{content | safe}}
+                  <a href="{{page_link}}" class="read-more">Go To Website</a>
+                </div>
               {% else %}
                 <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 20px;">
                   <div class="site-project-single-description">

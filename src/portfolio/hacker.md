@@ -20,5 +20,9 @@ social:
 featureImg1: "/assets/images/brands/hacker.png"
 featureImg2: "/assets/images/brands/hacker.png"
 text: "Accelerating its continuous growth and expanding its horizons, Häcker kitchen unearthed a dazzling collection of kitchens that follow the product lines of Classic and Systemat, which is presented by the lead of Finco Trading, a subsidiary of FINCO Holdings, is the exclusive partner in Sri Lanka for Häcker kitchen GmbH & Co KG, since 2019."
+sub_brand1: "/assets/images/brands/hacker/bosch.jpg"
+sub_brand2: "/assets/images/brands/hacker/dedietrch.jpg"
+sub_brand3: "/assets/images/brands/hacker/brandts.jpg"
+image_width_subbrand: 80%
 ---
 Accelerating its continuous growth and expanding its horizons, Häcker kitchen unearthed a dazzling collection of kitchens that follow the product lines of Classic and Systemat, which is presented by the lead of Finco Trading, a subsidiary of FINCO Holdings, is the exclusive partner in Sri Lanka for Häcker kitchen GmbH & Co KG, since 2019.
