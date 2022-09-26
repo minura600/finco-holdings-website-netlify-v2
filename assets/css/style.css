@@ -656,7 +656,7 @@ textarea.form-control {
 }
 @media (max-width: 575px) {
   .site-project-single-action a {
-    transform: translateX(-10px);
+    transform: translateX(0px);
   }
 }
 .site-project-single-action a .link-area {
