@@ -19,7 +19,7 @@ social:
     text: instagram.com/concept_flooring_sl
 featureImg1: "/assets/images/brands/standard_carpets.png"
 featureImg2: "/assets/images/brands/standard_carpets.png"
-text: "A sub brand of Finco Trading (Pvt) Ltd offering a wide variety of broadloom & carpet tiles to vinyl flooring. Concept flooring is the exclusive partner for Standard Carpets – Dubai’s largest Carpet Tile Manufacturer."
+text: "A sub brand of Finco Trading (Pvt) Ltd offering a wide variety of broadloom & carpet tiles to vinyl flooring. Concept flooring is the partner for Standard Carpets – Dubai’s largest Carpet Tile Manufacturer."
 
 standard_carpets:
   title: Standard Carpets
@@ -27,4 +27,4 @@ standard_carpets:
   img_width: 30%
   text: "Hosts one of the world’s largest carpet manufacturing facilities and is the region’s largest producer of vinyl-backed carpet tiles."
 ---
-A sub brand of Finco Trading (Pvt) Ltd offering a wide variety of broadloom & carpet tiles to vinyl flooring. Concept flooring is the exclusive partner for Standard Carpets – Dubai’s largest Carpet Tile Manufacturer.
+A sub brand of Finco Trading (Pvt) Ltd offering a wide variety of broadloom & carpet tiles to vinyl flooring. Concept flooring is the partner for Standard Carpets – Dubai’s largest Carpet Tile Manufacturer.
