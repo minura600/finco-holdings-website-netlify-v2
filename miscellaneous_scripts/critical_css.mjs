@@ -34,3 +34,4 @@ generate({
       decl: (node, value) => /big-image\.png/.test(value),
     },
   });
+  test
