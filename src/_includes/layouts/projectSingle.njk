@@ -27,7 +27,12 @@
                   <p>{{standard_carpets.text}}</p>
                   <a href="{{page_link}}" class="read-more">Go To Website</a>
                 </div>
-
+                <!--Location--->
+                <div class="row" style="margin-bottom: 5px;">
+                    <div class="col">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9097523892433!2d79.85302181435739!3d6.9013957950132525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25961040b4db9%3A0xbc957ecc6088f4d1!2s385%20R.%20A.%20De%20Mel%20Mawatha%2C%20Colombo!5e0!3m2!1sen!2slk!4v1664879559800!5m2!1sen!2slk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
               {% elseif title == "Hacker" %}
                 <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 5px;">
                 <div class="row align-items-center" style="padding-bottom: 15px;">
@@ -46,13 +51,20 @@
                   <a href="{{page_link}}" class="read-more">Go To Website</a>
                 </div>
                 <!-- Social Media Icons --->
-                  <div class="row" style="margin-bottom: 30px;">
-                    <div class="col">
-                    {% for site in social %}
-                      <a href="{{site.link}}" style="padding-right: 5px"><img src="{{site.icon}}" width="35"></a>
-                    {% endfor %}
-                    </div>
+                <div class="row" style="margin-bottom: 30px;">
+                  <div class="col">
+                  {% for site in social %}
+                    <a href="{{site.link}}" style="padding-right: 5px"><img src="{{site.icon}}" width="35"></a>
+                  {% endfor %}
                   </div>
+                </div>
+                <!--Location--->
+                <div class="row" style="margin-bottom: 5px;">
+                    <div class="col">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15843.030021444922!2d79.8473119!3d6.9195671!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaa5b78a509d1a6ac!2sHaecker%20Srilanka!5e0!3m2!1sen!2slk!4v1664878945587!5m2!1sen!2slk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+
               {% else %}
                 <img src="{{img_brand_page}}" alt="project-thumb" class="img-fluid image-width center" style="max-width: {{image_width_brand_page}}; padding-bottom: 20px;">
                   <div class="site-project-single-description">
@@ -69,6 +81,12 @@
                     </div>
                   </div>
 
+                <!--Location--->
+                <div class="row" style="margin-bottom: 5px;">
+                    <div class="col">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9097523892433!2d79.85302181435739!3d6.9013957950132525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25961040b4db9%3A0xbc957ecc6088f4d1!2s385%20R.%20A.%20De%20Mel%20Mawatha%2C%20Colombo!5e0!3m2!1sen!2slk!4v1664879559800!5m2!1sen!2slk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
               {% endif %}
 
               <!-- Image Section
