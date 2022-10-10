@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1"
+      content="width=device-width, initial-scale=1, maximum-scale=5"
     />
 
     <!-- Critical CSS -->
@@ -54,6 +54,7 @@
           type="button"
           data-toggle="collapse"
           data-target="#sitenavbar"
+          aria-label="Menu"
         >
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -65,13 +66,13 @@
             {% for navLink in nav.navLinks %}
             <li class="nav-item">
               {% if navLink == "home" %}
-                <a class="nav-link" href="/#">{{navLink | capitalize}}</a>
+                <a class="nav-link" href="/#" aria-label="Home">{{navLink | capitalize}}</a>
               {% elif navLink == "contact us" %}
-                <a class="nav-link" href="/#contact">{{navLink | capitalize}}</a>
+                <a class="nav-link" href="/#contact" aria-label="Contact Us">{{navLink | capitalize}}</a>
               {% elif navLink == "about us" %}
-                <a class="nav-link" href="/#about">{{navLink | capitalize}}</a>
+                <a class="nav-link" href="/#about" aria-label="About Us">{{navLink | capitalize}}</a>
               {% elif navLink == "brands" %}
-                <a class="nav-link" href="/#brands">{{navLink | capitalize}}</a>
+                <a class="nav-link" href="/#brands" aria-label="Brands">{{navLink | capitalize}}</a>
               {% else %}
                 <a class="nav-link" href="/{{navLink}}">{{navLink | capitalize}}</a> 
               {% endif %} 
@@ -106,7 +107,7 @@
           </div>
           <div class="col-lg-3 col-md-6">
             <div class="site-footer-widget">
-              <h5 class="site-footer-widget-title">Contact Info</h5>
+              <h1 class="site-footer-widget-title">Contact Info</h1>
               <ul class="site-footer-widget-links">
               {% for contactInfo in footer.contactsInfo %}
                 <li><a href="{{contactInfo.link}}">{{contactInfo.text}}</a></li>
@@ -115,7 +116,7 @@
           </div>
           <div class="col-lg-2 col-md-6">
             <div class="site-footer-widget">
-              <h5 class="site-footer-widget-title">{{footer.siteMapHeading}}</h5>
+              <h1 class="site-footer-widget-title">{{footer.siteMapHeading}}</h1>
               <ul class="site-footer-widget-links">
                 {% for siteMap in footer.siteMap %}
                  <li>
@@ -127,7 +128,7 @@
           </div>
           <div class="col-lg-2 col-md-6">
             <div class="site-footer-widget">
-              <h5 class="site-footer-widget-title">{{footer.socialHeading}}</h5>
+              <h1 class="site-footer-widget-title">{{footer.socialHeading}}</h1>
               <ul class="site-footer-widget-links">
                 {% for socialMedia in footer.socialMedia %}
                 <li><a href="/{{socialMedia.link}}">{{socialMedia.text}}</a></li>
@@ -137,7 +138,7 @@
           </div>
           <div class="col-lg-3 col-md-6">
             <div class="site-footer-widget">
-              <h5 class="site-footer-widget-title">{{footer.brandHeading}}</h5>
+              <h1 class="site-footer-widget-title">{{footer.brandHeading}}</h1>
               <p class="site-footer-widget-description">
               {% for brandMotto in footer.brandMotto %}
                 - {{brandMotto}}

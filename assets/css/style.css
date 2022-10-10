@@ -90,6 +90,10 @@ height: auto;
     padding-bottom: 5px;
   }
 }
+.site-counter p {
+  font-size: 16px;
+  color: #9D9EA5;
+}
 
 /* End custom CSS */
 
@@ -101,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   font-size: 16px;
-  color: #9D9EA5;
+  color: #747478;
 }
 
 h1 {
@@ -1162,11 +1166,13 @@ textarea.form-control {
 }
 .site-footer-widget-title {
   color: #fff;
+  font-size: 18px;
   margin-bottom: 30px;
 }
 @media (max-width: 991px) {
   .site-footer-widget-title {
     margin-bottom: 20px;
+    font-size: 18px;
   }
 }
 .site-footer-widget-description {
