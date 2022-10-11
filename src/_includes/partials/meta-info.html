@@ -1,0 +1,21 @@
+{% set pageTitle = title %}
+
+{% set siteTitle = site.name %}
+{% set currentUrl = site.url + page.url %}
+
+{# If the page’s Front Matter has specific metaTitle and/or metaDesc items, switch 
+  them into the mix. #}
+{% if metaTitle %}
+  {% set pageTitle = metaTitle %}
+{% endif %}
+
+<meta property="og:site_name" content="Finco Trading" />
+<meta property="og:title" content="{{ pageTitle }}" />
+<meta property="og:type" content="website" />
+
+{% if meta %}
+  <meta name="description" content="{{ meta.desc }}" />
+  <meta name="twitter:description" content="{{ meta.desc }}" />
+  <meta property="og:description" content="{{ meta.desc }}" />
+  <meta name="keywords" content="{{ meta.keywords }}" />
+{% endif %}

@@ -1,6 +1,9 @@
 ---
 subTitle: "PRODUCT LABEL" 
 title: "Hacker"
+meta:
+  desc: Häcker German Kitchens produces modern fitted kitchens that fulfill the highest claims in terms of quality, functionality, durability and design.
+  keywords: "Kitchen, Luxury, German Made, Bosch, De- Detrich, Brandts, Luxury Living, Luxury Life Style, Wine Coolers, Wine Celler, Kitchen Appliances, Wine Chillers"
 displayOrder: 1
 pagination_title: "Hacker"
 img: "/assets/images/brands/hacker.jpg"

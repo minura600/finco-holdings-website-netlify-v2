@@ -1,5 +1,12 @@
 ---
+title: Finco Trading
 layout: "layouts/homepage.njk"
+
+meta:
+  desc: Homepage of Finco Trading, authorized agent in Sri Lanka for Häcker, Standard Carpets, Concept Flooring, and Design Box.
+  keywords: "Carpets, Flooring, Tiles, Carpet Tiles, Nylon/Olefin, Kitchen, Luxury, German Made, Bosch, De- Detrich, Brandts, Luxury Living, Luxury Life Style, Wine Coolers, Wine Celler, Kitchen Appliances, Wine Chillers, Standard Pricing, Full Service Interior Solutions, Interior Fit Outs, Interior Solutions"
+  
+
 hero:
   subTitle: ""
   title:

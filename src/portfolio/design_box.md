@@ -1,6 +1,9 @@
 ---
 subTitle: "PRODUCT LABEL" 
 title: "Design Box"
+meta:
+  desc: Providing exceptional design at standard pricing, DesignBox offers full service interior solutions specifically for apartment living. Across styles and with customizable options, the turn key interior solution and furniture package is delivered from design to installation, efficiently and in a short lead time.
+  keywords: "Luxury Living, Luxury Life Style, Wine Coolers, Wine Celler, Kitchen Appliances, Wine Chillers, Standard Pricing, Full Service Interior Solutions, Interior Fit Outs, Interior Solutions"
 displayOrder: 3
 pagination_title: "Design Box"
 img: "/assets/images/brands/design_box.png"

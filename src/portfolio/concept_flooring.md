@@ -1,6 +1,10 @@
 ---
 subTitle: "PRODUCT LABEL" 
 title: "Concept Flooring"
+meta:
+  desc: Concept Flooring offers a range of flooring types under a range international brands. Standard Carpets is Dubai's largest carpet tile manufacturer.
+  keywords: "Carpets, Flooring, Tiles, Carpet Tiles, Nylon/Olefin"
+
 displayOrder: 2
 pagination_title: "Flooring"
 img: "/assets/images/brands/concept_flooring_white_cropped.jpg"
